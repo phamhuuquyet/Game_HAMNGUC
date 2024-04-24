@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Ladder
+  - Limit
+  - Lava
+  - MovingPlatform
+  - Spike
+  - Portal
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Player
+    uniqueID: 775801343
+    locked: 0
+  - name: Ladder
+    uniqueID: 3958260759
+    locked: 0
+  - name: Back
+    uniqueID: 2921779611
+    locked: 0
+  - name: Middle
+    uniqueID: 2233361983
+    locked: 0
+  - name: Far
+    uniqueID: 3599236875
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
